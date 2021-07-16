@@ -46,6 +46,7 @@
 
 <br>
 <br>
+
 ---
 
 <summary>:zap: GitHub Stats</summary>
@@ -57,6 +58,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavarJ&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
  ---
 
 ![](https://komarev.com/ghpvc/?username=SavarJ&color=brightgreen)
