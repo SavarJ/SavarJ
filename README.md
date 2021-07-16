@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SavarJ&show_icons=true&hide_border=true" />
+[![Savar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavarJ)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavarJ&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
