@@ -10,9 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jainsavar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Savar Jain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Savar Jain | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
@@ -59,10 +61,11 @@
 
 <br>
 
- ---
+---
 
 ![](https://komarev.com/ghpvc/?username=SavarJ&color=brightgreen)
 &nbsp; ![Github](https://img.shields.io/github/followers/SavarJ?label=Follow%20Me%21&style=social)
 
 [website]: https://www.jainsavar.com
 [linkedin]: https://linkedin.com/in/savarjain
+[email]: mailto:jainsavar@gmail.com
