@@ -55,7 +55,7 @@
 
 <br>
 
-[![Savar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavarJ&hide=prs,issues&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Savar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavarJ&hide=prs,issues&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavarJ&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
