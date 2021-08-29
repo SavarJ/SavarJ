@@ -4,8 +4,8 @@
 
 - 🔭 I'm a 16-year-old rising senior at Westhill High School
 - 🌱 I’m currently learning Web Development
-- 👯 I have taken classes such as AP CSA, Honors Cyber Security, and Data Structures and Algorithms
-- 🥅 I will be a TA next year for DSA and will do an Independent Study in AI/ML
+- 👯 I have taken many CS classes such as AP CSA, Honors Cyber Security, and Data Structures and Algorithms
+- 🥅 I will be a TA next year for DSA
 - ⚡ Fun fact: I have lived in 3 different continents!
 
 ### Connect with me:
@@ -54,10 +54,9 @@
  ### :zap: GitHub Stats
 
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavarJ&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Savar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavarJ&hide=prs,issues&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavarJ&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
