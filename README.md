@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 I'm a 16-year-old senior at Westhill High School
+- 🔭 I'm a 17-year-old senior at Westhill High School
 - 🌱 I’m currently learning ReactJS
 - 👯 I have taken many CS classes such as AP CSA, Honors Cyber Security, and Data Structures and Algorithms
 - 🥅 I am currently a TA for Data Structures & Algorithms
@@ -59,7 +59,7 @@
 
 <br>
 
-[![Savar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavarJ&hide=prs,issues&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Savar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavarJ&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
