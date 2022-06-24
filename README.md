@@ -2,10 +2,10 @@
 
 <br>
 
-- 🔭 I'm a 17-year-old senior at Westhill High School
-- 🌱 I’m currently learning ReactJS
-- 👯 I have taken many CS classes such as AP CSA, Honors Cyber Security, and Data Structures and Algorithms
-- 🥅 I am currently a TA for Data Structures & Algorithms
+- 🔭 I'm undergraduate student majoring in Computer Science
+- 🌱 I’m currently learning more about Cloud Computing
+- 👯 I have taken many CS classes such as Data Structures & Algorithms and Introduction to Cyber Security
+- 🥅 Last year, I was a TA for Data Structures & Algorithms
 - ⚡ Fun fact: I have lived in 3 different continents!
 
 ### Connect with me:
