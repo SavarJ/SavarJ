@@ -58,12 +58,16 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavarJ&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; gap: 2rem; align-items:center;">
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SavarJ&theme=blueberry&show_icons=true&count_private=true&hide=issues">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavarJ&layout=compact&langs_count=6&theme=blueberry">
+</a>
 
-<br>
-
-[![Savar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavarJ&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 ---
 
