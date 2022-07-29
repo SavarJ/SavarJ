@@ -8,6 +8,8 @@
 - 🥅 Last year, I was a TA for Data Structures & Algorithms
 - ⚡ Fun fact: I have lived in 3 different continents!
 
+<!---
+
 ### Connect with me:
 
 [<img align="left" alt="jainsavar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -15,6 +17,7 @@
 [<img align="left" alt="Savar Jain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Savar Jain | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
 
 <br />
 
@@ -48,7 +51,7 @@
 
 <br>
 <br>
-
+-->
 ---
 
  ### :zap: GitHub Stats
