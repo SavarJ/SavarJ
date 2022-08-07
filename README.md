@@ -1,10 +1,11 @@
 # Hi there, I'm [Savar Jain][website] 👋
-
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savarjain/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainsavar@gmail.com)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jainsavar.com)
 <br>
 
-- 🔭 I'm undergraduate student majoring in Computer Science
-- 🌱 I’m currently learning more about Cloud Computing
-<!-- - 👯 I have taken many CS classes such as Data Structures & Algorithms and Introduction to Cyber Security -->
+- 🔭 I'm undergraduate student majoring in Computer Science!
+- 🌱 I’m currently learning more about Cloud Computing :)
 - 🥅 Last year, I was a TA for Data Structures & Algorithms
 - ⚡ Fun fact: I have lived in 3 different continents!
 
