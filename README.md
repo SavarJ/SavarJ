@@ -4,7 +4,7 @@
 
 - 🔭 I'm undergraduate student majoring in Computer Science
 - 🌱 I’m currently learning more about Cloud Computing
-- 👯 I have taken many CS classes such as Data Structures & Algorithms and Introduction to Cyber Security
+<!-- - 👯 I have taken many CS classes such as Data Structures & Algorithms and Introduction to Cyber Security -->
 - 🥅 Last year, I was a TA for Data Structures & Algorithms
 - ⚡ Fun fact: I have lived in 3 different continents!
 
