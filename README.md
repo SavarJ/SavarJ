@@ -4,10 +4,10 @@
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jainsavar.com)
 <br>
 
-- 🔭 I'm undergraduate student majoring in Computer Science!
-- 🌱 I’m currently learning more about Cloud Computing :)
-- 🥅 Last year, I was a TA for Data Structures & Algorithms
-- ⚡ Fun fact: I have lived in 3 different continents!
+- 🔭 I'm a rising junior majoring in Computer Science!
+- 🌱 I’m currently interning at Amazon on the AWS Snowball Team :)
+- 🥅 This past summer, I interned at Zillow AI in the Backend Search Platform Team!
+- ⚡ Fun fact: I have lived on 3 different continents!
 
 ---
 
