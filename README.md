@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I'm a rising junior majoring in Computer Science!
-- 🌱 I’m incoming interning at MongoDB in NYC :)
+- 🌱 I’m an incoming intern at MongoDB in NYC :)
 - ❄️ This past fall, I interned at Amazon on the AWS Snowball Team where I worked on Edge Computing!
 - 🥅 Last summer, I interned at Zillow AI in the Backend Search Platform Team!
 - ⚡ Fun fact: I have lived on 3 different continents!
