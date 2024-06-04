@@ -4,11 +4,13 @@
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jainsavar.com)
 <br>
 
+<!---
 - 🔭 I'm a rising junior majoring in Computer Science!
 - 🌱 I’m an incoming intern at MongoDB in NYC :)
 - ❄️ This past fall, I interned at Amazon on the AWS Snowball Team where I worked on Edge Computing!
 - 🥅 Last summer, I interned at Zillow AI in the Backend Search Platform Team!
 - ⚡ Fun fact: I have lived on 3 different continents!
+-->
 
 ---
 
